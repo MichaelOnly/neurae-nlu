@@ -1,5 +1,5 @@
 # Neurae NLU
-This repository contains code files for data generating and model researching for [Neurae](https://github.com/neurae)'s nlu module.
+This repository contains code files for data generating and model researching for [Neurae](https://github.com/neurae)'s nlu module. More details you can find my [Bachelor Diploma](https://github.com/MichaelOnly/diploma).
 
 ## Installation
 For usage you need python 3.9 or higher.
